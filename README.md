@@ -1,2 +1,2 @@
 # preHTML
-preHTML
+[preHTML](index.html)
